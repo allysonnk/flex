@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #6e6c6c;
+}
+
+header {
+    grid-area: header;
+    text-align: center;
+    
+}
+header img{
+    height: 100px;
+    width: 100px;
+}
+
+main {
+    background-color: #000;
+    display: flex;
+}
+.band {
+    display: flex;
+
+}
+.band img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    
+
+}
+aside{
+    text-align: 
+    
+}
+
+
+footer {
+    grid-area: footer;
+    text-align: center;
+}
